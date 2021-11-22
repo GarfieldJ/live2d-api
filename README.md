@@ -1,4 +1,7 @@
 # Live2D API
+
+# 部署流程，搭建httpd, 安装php（各种依赖，特别是php-json）,将项目拷贝到/var/www/html/,目录改为api(接口使用的路径)
+
 ### 特性
 
 - 原生 PHP 开发，无需伪静态，开箱即用
